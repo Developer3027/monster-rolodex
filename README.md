@@ -11,3 +11,5 @@ https://jsonplaceholder.typicode.com
 
 This project showed how to combine several api into one to provide a card that 
 used both info. Css to give a hover effect for individual cards.
+
+************
